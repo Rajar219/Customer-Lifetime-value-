@@ -1,12 +1,13 @@
 # Customer-Lifetime-value-
 
 Customer Lifetime Value (CLV) Prediction – README
-📝 Project Overview
+
+Project Overview:
 
 This project builds an end-to-end machine learning pipeline to predict Customer Lifetime Value (CLV) using advanced feature engineering, LightGBM modeling, hyperparameter tuning, and SHAP explainability.
 The goal is not only to achieve strong predictive performance but also to deliver transparent, interpretable insights for marketing and retention strategy.
 
-🎯 Objectives
+Objectives:
 
 Predict 12-month Customer Lifetime Value (CLV).
 
